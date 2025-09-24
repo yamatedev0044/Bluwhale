@@ -1,0 +1,18 @@
+<svg width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1200">
+<circle id="Ellipse 23" cx="27.5" cy="27.5" r="27.5" fill="url(#paint0_linear_1_11013)"/>
+<g id="Group 32">
+<path id="Union" d="M40.827 24.7218C42.391 26.2849 42.391 28.8193 40.827 30.3824L32.2895 38.9148L30.8734 37.4995L39.8829 28.4954C40.4042 27.9744 40.4042 27.1296 39.8829 26.6086L30.4015 17.1328L31.8175 15.7177L40.827 24.7218Z" fill="#0C0D1A"/>
+<path id="Rectangle 44" d="M41.2804 26.5187L41.2804 28.5137L12.7244 28.5137L12.7244 26.5188L41.2804 26.5187Z" fill="#0C0D1A"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_11013" x1="7.33333" y1="9.625" x2="46.0625" y2="48.8125" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8C421D"/>
+<stop offset="0.325272" stop-color="#FBE67B"/>
+<stop offset="0.535488" stop-color="#FCFBE7"/>
+<stop offset="0.769917" stop-color="#F7D14E"/>
+<stop offset="1" stop-color="#D4A041"/>
+</linearGradient>
+</defs>
+</svg>
