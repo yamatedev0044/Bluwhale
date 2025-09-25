@@ -855,7 +855,7 @@ function updateElements(attributes) {
   const customLinks = [
     { text: "Nodes", link: "/nodes", external: false },
     { text: "Whitelist", link: "/whitelist", external: false },
-    { text: "Whitepaper", link: "/whitepaper", external: false },
+    { text: "Whitepaper", link: "/whitepaper.pdf", external: false },
   ];
   
   const linksContainers = document.querySelectorAll(
