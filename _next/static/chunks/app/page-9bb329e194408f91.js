@@ -5,7 +5,7 @@
       "use strict";
       s.r(t), s.d(t, { default: () => A });
       let A = {
-        src: "/_next/static/media/img-8-1.78852ea1.png",
+        src: "_next/static/media/img-8-1.78852ea1.png",
         height: 521,
         width: 520,
         blurDataURL:
